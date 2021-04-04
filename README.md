@@ -7,9 +7,7 @@ cd your-dapp
 npm install
 ```
 ```
-npx create-react-app client --use-npm
-```
-```
 cd client
+npm install
 npm start
 ```
