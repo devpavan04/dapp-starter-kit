@@ -4,7 +4,7 @@ const Message = artifacts.require("./Message.sol");
 
 require("chai").use(require("chai-as-promised")).should();
 
-contract("Crypto Boys", async (accounts) => {
+contract("Message", async (accounts) => {
   let message;
 
   before(async () => {
